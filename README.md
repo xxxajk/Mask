@@ -12,3 +12,6 @@ adaptive layers required for best mask results.
 Material for other parts are your choice, but I used PLA.
 
 CURA 3.6.20 Lulzbot edition used for slicing. Might be usable on other slicers.
+
+Note: Mask and filter holder were modified, but the 3mf and gcode were not. 
+You should re-slice on your own slicer
